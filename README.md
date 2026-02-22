@@ -25,8 +25,8 @@ Below are the screenshots showing the step-by-step configuration of the Payville
 ![Directory Setup](Screenshot%202026-02-22%20154143.png)
 ### Step 2: Directory Structure II
 ![Directory Setup](Screenshot%202026-02-22%20154207.png)
-### Step 2: Permission Configuration (chmod 770/775) and  Group Assignments (chown)
-![Group Ownership & Permissions Applied](Screenshot%202026-02-22%20154022)
-### Step 3: Final Verification (ls -l)
+### Step 3: Permission Configuration (chmod 770/775) and  Group Assignments (chown)
+![Group Ownership & Permissions Applied](Screenshot%202026-02-22%20154022.png)
+### Step 4: Final Verification (ls -l)
 ![Final Result](Screenshot%202026-02-22%20163453.png)
 
