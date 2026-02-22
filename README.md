@@ -20,4 +20,5 @@ I used specific numeric codes to ensure strict access control:
 * 775 (Public): Used for the Vision & Mission folder so the whole company can read it.
 
 ## Final Verification
-Here is the successful output of my server configuration:
+Here is the successful output of my server configuration: 
+![Terminak Results](Screenshot 2026-02-22-154022.png)
