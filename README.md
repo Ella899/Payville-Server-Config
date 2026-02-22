@@ -20,5 +20,12 @@ I used specific numeric codes to ensure strict access control:
 * 775 (Public): Used for the Vision & Mission folder so the whole company can read it.
 
 ## Final Verification
-Here is the successful output of my server configuration: 
-![Terminal Results](Screenshot%202026-02-22%20154022.png)
+Below are the screenshots showing the step-by-step configuration of the Payville Server.
+### Step 1: Directory Structure & Initial Ownership
+![Directory Setup](Screenshot%202026-02-22%20154143.png)
+![Directory Setup](Screenshot%202026-02-22%20154207.png)
+### Step 2: Permission Configuration (chmod 770/775) and  Group Assignments (chown)
+![Group Ownership & Permissions Applied](Screenshot%202026-02-22%20154022)
+### Step 3: Final Verification (ls -l)
+![Final Result](Screenshot%202026-02-22%20163453.png)
+
