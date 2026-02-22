@@ -21,4 +21,4 @@ I used specific numeric codes to ensure strict access control:
 
 ## Final Verification
 Here is the successful output of my server configuration: 
-![Terminal Results](Screenshot 2026-02-22-154022.png)
+![Terminal Results](Screenshot%202026-02-22%20154022.png)
