@@ -23,7 +23,7 @@ I used specific numeric codes to ensure strict access control:
 Below are the screenshots showing the step-by-step configuration of the Payville Server.
 ### Step 1: Directory Structure & Initial Ownership
 ![Directory Setup](Screenshot%202026-02-22%20154143.png)
-![Directory Setup](Screenshot%202026-02-22%20154207.png)
+![Initial Ownership](Screenshot%202026-02-22%20154207.png)
 ### Step 2: Permission Configuration (chmod 770/775) and  Group Assignments (chown)
 ![Group Ownership & Permissions Applied](Screenshot%202026-02-22%20154022)
 ### Step 3: Final Verification (ls -l)
